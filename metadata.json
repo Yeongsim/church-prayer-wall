@@ -1,0 +1,5 @@
+{
+  "name": "Church in Prayer Wall",
+  "description": "A digital prayer wall for the Halifax church community. Users can view ongoing and community-submitted prayer requests, add their own, generate sample prayers with AI, and set daily prayer reminders.",
+  "requestFramePermissions": []
+}
